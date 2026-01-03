@@ -29,7 +29,7 @@
 | [pro-meshro](https://github.com/hawkeyes0v0/pro-meshro/) | nRF52840 | 🚫 |
 | [faketecyuri](https://github.com/Yurisu/meshtastic-faketecyuri) | nRF52840 | 🚫 |
 | [xiaoWa](https://github.com/gargomoma/xiaoWa_pcb) | nRF52840 | ✅ |
-| [rotTec_pcb (fakeTec v5b fork)](https://github.com/mofosyne/rotTec_pcb/tree/mofosyne-fork) | nRF52840 | 🚫 |
+| [RoTec (mofosyne)(fakeTec v5b fork)](https://github.com/mofosyne/roTec_pcb) | nRF52840 | 🚫 |
 | | [Femtofox Series](https://github.com/femtofox/Femtofox_Community_Hardware) |
 | [Femtofox Community Edition](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20CE%20Alpha%201.1) | Linux SBC (Luckfox Pico Mini) | ✅ |
 | [Femtofox Smol](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20SE-RA-WIO%20Alpha%201.0) | Linux SBC (Luckfox Pico Mini) | ✅ |
